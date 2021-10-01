@@ -1,0 +1,68 @@
+{
+    "physicians": [
+      {
+        "id": 0,
+        "firstName": "Jerry",
+        "lastName": "Seinfeld",
+        "patients": [
+          {
+            "patientId": 0,
+            "name": "Sterling Archer",
+            "time": "8:00 AM",
+            "kind": "New Patient"
+          },
+          {
+            "patientId": 1,
+            "name": "Rick ",
+            "time": "8:30 AM",
+            "kind": "Follow Up"
+          },
+          {
+            "patientId": 2,
+            "name": "Morty",
+            "time": "9:00 AM",
+            "kind": "Follow Up"
+          },
+          {
+            "patientId": 3,
+            "name": "Uncle Leo",
+            "time": "9:30 AM",
+            "kind": "New Patient"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "firstName": "George",
+        "lastName": "Costanza",
+        "patients": [
+            
+                {
+                  "patientId": 0,
+                  "name": "Sterling Archer",
+                  "time": "8:00 AM",
+                  "kind": "New Patient"
+                },
+                {
+                  "patientId": 1,
+                  "name": "Rick ",
+                  "time": "8:30 AM",
+                  "kind": "Follow Up"
+                },
+                {
+                  "patientId": 2,
+                  "name": "Morty",
+                  "time": "9:00 AM",
+                  "kind": "Follow Up"
+                },
+                {
+                  "patientId": 3,
+                  "name": "Uncle Leo",
+                  "time": "9:30 AM",
+                  "kind": "New Patient"
+                }
+            ]
+        }
+    ]
+}
+
