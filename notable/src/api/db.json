@@ -4,12 +4,13 @@
         "id": 0,
         "firstName": "Jerry",
         "lastName": "Seinfeld",
+        "email": "seinfeld@notablehealth.com",
         "patients": [
           {
             "patientId": 0,
             "name": "Sterling Archer",
             "time": "8:00 AM",
-            "kind": "New Patient"
+            "kind": "New Patient",
           },
           {
             "patientId": 1,
@@ -35,6 +36,7 @@
         "id": 1,
         "firstName": "George",
         "lastName": "Costanza",
+        "email": "costanza@notablehealth.com",
         "patients": [
             
                 {
